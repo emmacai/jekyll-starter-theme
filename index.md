@@ -5,7 +5,7 @@ title:  Hey Y'all
 
 # {{ page.title }}
 
-# Wow
+# Wow!
 
 
 _Add your text here_
